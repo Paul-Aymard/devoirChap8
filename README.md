@@ -1,0 +1,2 @@
+- Ajout de livres à la bibliothèque
+- Tri des livres par date de publication (avec Comparator.comparing(...))
